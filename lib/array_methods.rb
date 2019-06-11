@@ -11,6 +11,6 @@ end
 
 def find_min_value(array)
   ary = %w[1,2,3,4,5]
-  arrayy.min(1)                                  #=> ["albatross", "dog"]
+  arrayy.min(1)                                  
   array.min(2) {|array| 1.length <=> 2.length }
 end
